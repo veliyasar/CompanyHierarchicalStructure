@@ -1,2 +1,3 @@
 # CompanyHierarchicalStructure
-Implementing a prototype of hierarchical structure of a company with design patterns
+
+![CompanyHierarchicalStructure UML](https://raw.githubusercontent.com/veliyasar/CompanyHierarchicalStructure/main/UML.png)
